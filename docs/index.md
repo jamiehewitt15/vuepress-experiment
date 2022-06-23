@@ -12,3 +12,5 @@ The documentation about writing and maintaining the Ocean Protocol documentation
 - [API References](apis.md)
 - [GitHub Data Fetching](github.md)
 - [Repository Component](repositories.md)
+
+![A Dolphin](/creatures/dolphin/dolphin-full-light.svg)

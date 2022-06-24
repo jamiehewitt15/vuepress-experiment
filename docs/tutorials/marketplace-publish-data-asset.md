@@ -15,13 +15,13 @@ Ocean Market provides a convenient interface for individuals and organizations t
 
 2. Connect wallet.
 
-   ![connect wallet](images/marketplace/connect-wallet.png 'Connect wallet')
+   ![connect wallet](./images/marketplace/connect-wallet.png 'Connect wallet')
 
    In this tutorial, we will be using the Rinkeby test network.
 
 3. Go to the publish page.
 
-   ![publish page](images/marketplace/publish.png 'Publish page')
+   ![publish page](./images/marketplace/publish.png 'Publish page')
 
 ### Step 1 - Metadata
 
@@ -49,7 +49,7 @@ _Mandatory fields are marked with <span style="color: red;">\*</span>_
 
   Tags help the asset to be discoverable. If not provided, the list of tags is empty by default.
 
-![publish part-1](images/marketplace/publish-1.png 'Asset metadata')
+![publish part-1](./images/marketplace/publish-1.png 'Asset metadata')
 
 ### Step 2 - Access details
 
@@ -79,7 +79,7 @@ _Mandatory fields are marked with <span style="color: red;">\*</span>_
 
   This field specifies how long the buyer can access the dataset after the dataset is purchased. This field is editable after the asset publication.
 
-![publish part-2](images/marketplace/publish-2.png 'Access details')
+![publish part-2](./images/marketplace/publish-2.png 'Access details')
 
 ### Step 3 - Pricing
 
@@ -103,29 +103,29 @@ The publisher can also change the **Swap Fee** of the liquidity pool.
 
 For a deep dive into the fee structure, please refer to this [document](/concepts/fees/).
 
-![publish part-3](images/marketplace/publish-3.png 'Dynamic pricing')
+![publish part-3](./images/marketplace/publish-3.png 'Dynamic pricing')
 
 ### Step 4 - Preview
 
-![publish part-4](images/marketplace/publish-4.png 'Preview')
+![publish part-4](./images/marketplace/publish-4.png 'Preview')
 
 ### Step 5 - Blockchain transactions
 
-![publish part-5](images/marketplace/publish-5.png 'Transaction 1 - Allow access to Ocean tokens')
+![publish part-5](./images/marketplace/publish-5.png 'Transaction 1 - Allow access to Ocean tokens')
 
 <br />
 
-![publish part-6](images/marketplace/publish-6.png 'Transaction 2 - Deploy data NFT and datatoken')
+![publish part-6](./images/marketplace/publish-6.png 'Transaction 2 - Deploy data NFT and datatoken')
 
 <br />
 
-![publish part-7](images/marketplace/publish-7.png 'Transaction 3 - Publish DDO')
+![publish part-7](./images/marketplace/publish-7.png 'Transaction 3 - Publish DDO')
 
 ### Confirmation
 
 Now, the asset is successfully published and available in the Ocean Market.
 
-![publish success](images/marketplace/publish-8.png 'Successful publish')
+![publish success](./images/marketplace/publish-8.png 'Successful publish')
 
 On the [profile page](https://v4.market.oceanprotocol.com/profile), the publisher has access to all his published assets.
 

@@ -7,7 +7,7 @@ description: Data NFTs and datatokens architecture
 
 Here is the Ocean architecture.
 
-![Ocean Protocol tools architecture](images/architecture.png)
+![Ocean Protocol tools architecture](./images/architecture.png)
 
 Here’s an overview of the figure.
 

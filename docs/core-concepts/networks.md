@@ -232,7 +232,7 @@ If you don't find Moonbase as a predefined network in your wallet, you can conne
 
 The most straightforward way for local-only development is to use [Barge](https://www.github.com/oceanprotocol/barge), which runs [Ganache](https://www.trufflesuite.com/ganache), Aquarius, and Provider. It is used extensively by the Ocean core devs (with Ganache or Rinkeby) and for automated integration testing.
 
-<repo name="barge"></repo>
+`<repo name="barge"></repo>`
 
 To connect to it from MetaMask, select the network called _Localhost 8545_.
 

@@ -7,7 +7,7 @@ https://v4.market.oceanprotocol.com/
 
 ## Landing page
 
-![marketplace landing-page](images/marketplace/marketplace-landing-page.png 'Approve contract transaction')
+![marketplace landing-page](./images/marketplace/marketplace-landing-page.png 'Approve contract transaction')
 
 ## About Ocean Market
 

@@ -7,7 +7,7 @@ description: Data NFTs and datatokens architecture
 
 Here is the Ocean architecture.
 
-![Ocean Protocol tools architecture](images/architecture.png)
+![Ocean Protocol tools architecture](./images/architecture.png)
 
 Here’s an overview of the figure.
 
@@ -37,9 +37,11 @@ Instead of running a Provider themselves, the publisher can have a 3rd party lik
 
 **Ocean JavaScript and Python libraries** act as drivers for the lower-level contracts. Each library integrates with Ocean Provider to provision & access data services, and Ocean Aquarius for metadata.
 
+```
 <repo name="provider"></repo>
 <repo name="ocean.js"></repo>
 <repo name="ocean.py"></repo>
+```
 
 ## Market Tools
 
@@ -56,7 +58,7 @@ Complementary to Ocean Market, Ocean has reference code to ease building **third
 
 [This post](https://blog.oceanprotocol.com/ocean-market-an-open-source-community-marketplace-for-data-4b99bedacdc3) elaborates on Ocean marketplace tools.
 
-<repo name="market"></repo>
+`<repo name="market"></repo>`
 
 ## Metadata Tools
 
@@ -69,7 +71,7 @@ Ocean uses the Ethereum mainnet and other compatible networks as an **on-chain m
 
 Due to the permissionless, decentralized nature of data on the Ethereum mainnet, any last mile tool can access metadata. **Ocean Aquarius** supports different metadata fields for each different Ocean-based marketplace. Developers could also use [The Graph](https://www.thegraph.com) to see metadata fields that are common across all marketplaces.
 
-<repo name="aquarius"></repo>
+`<repo name="aquarius"></repo>`
 
 ## Third-Party ERC20 Apps & Tools
 
